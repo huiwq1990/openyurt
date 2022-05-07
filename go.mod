@@ -23,6 +23,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/vishvananda/netlink v1.1.1-0.20200603190939-5a869a71f0cb
 	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
+	golang.org/x/tools v0.1.10 // indirect
 	google.golang.org/grpc v1.42.0
 	gopkg.in/cheggaaa/pb.v1 v1.0.25
 	k8s.io/api v0.22.3

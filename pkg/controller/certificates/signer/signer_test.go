@@ -22,7 +22,6 @@ import (
 	"crypto/x509"
 	"crypto/x509/pkix"
 	"encoding/pem"
-	"github.com/openyurtio/openyurt/pkg/util/certmanager"
 	"io/ioutil"
 	"math/rand"
 	"testing"
@@ -35,6 +34,8 @@ import (
 	"k8s.io/client-go/kubernetes/fake"
 	testclient "k8s.io/client-go/testing"
 	"k8s.io/client-go/util/cert"
+
+	"github.com/openyurtio/openyurt/pkg/util/certmanager"
 )
 
 func TestSigner(t *testing.T) {
