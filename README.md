@@ -1,7 +1,7 @@
 # openyurtio/openyurt
 ssss xxx xx  sss
 <div align="center">ss
-xxssss xs
+xxssss xs ss
 <img src="docs/img/OpenYurt.png" width="400sss" height="94"><br/>
 
 [![Version](https://img.shields.io/badge/OpenYurt-v0.6.0-orange)](CHANGELOG.md)
