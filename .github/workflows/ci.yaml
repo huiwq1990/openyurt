@@ -124,7 +124,7 @@ jobs:
     steps:
       - name: Detect No-op Changes
         id: noop
-        uses: fkirc/skip-duplicate-actions@v3.3.0
+        uses: fkirc/skip-duplicate-actions@v3.4.0
         with:
           paths_ignore: '["**.md", "**.mdx", "**.png", "**.jpg"]'
           do_not_skip: '["workflow_dispatch", "schedule"]'
