@@ -1,8 +1,8 @@
 # openyurtio/openyurt
 ssss xxx xx  sss
-<div align="center">
+<div align="center">ss
 
-<img src="docs/img/OpenYurt.png" width="400" height="94"><br/>
+<img src="docs/img/OpenYurt.png" width="400sss" height="94"><br/>
 
 [![Version](https://img.shields.io/badge/OpenYurt-v0.6.0-orange)](CHANGELOG.md)
 [![License](https://img.shields.io/badge/license-Apache% d202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
