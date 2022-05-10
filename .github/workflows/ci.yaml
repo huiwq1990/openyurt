@@ -126,10 +126,8 @@ jobs:
         id: noop
         uses: fkirc/skip-duplicate-actions@v3.3.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           paths_ignore: '["**.md", "**.mdx", "**.png", "**.jpg"]'
           do_not_skip: '["workflow_dispatch", "schedule"]'
-          concurrent_skipping: false
 
   set-k8s-matrix:
     runs-on: ubuntu-18.04
